@@ -54,7 +54,6 @@ dependencies:
   percent_indicator: ^4.2.3
   flutter_image_compress: ^2.1.0
   font_awesome_flutter: ^10.4.0
-  dart_date: ^1.1.1
   video_compress: ^3.1.2
   just_audio: ^0.9.31
   flutter_inappwebview: ^5.7.2+3
